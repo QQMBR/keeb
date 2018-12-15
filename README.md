@@ -1,6 +1,6 @@
 # BlueMicro Firmware
-
-A Keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro
+This is the original repository for a keyboard Firmware for nRF52832 Boards with a pinout compatible with the Arduino Pro Micro.
+This repository might not always be up to date, as it is used for development, please visit ![jpconstantineau's repository](https://github.com/jpconstantineau/BlueMicro_BLE) for release stuff.
 
 ![BlueMicro](https://i.imgur.com/0SJpnoA.jpg)
 
